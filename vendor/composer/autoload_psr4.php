@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Mathildegrimal\\PackageComposer\\' => array($baseDir . '/src'),
+    'antoninval\\PackageComposer\\' => array($baseDir . '/src'),
 );
