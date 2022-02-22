@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "antoninval\\PackageComposer\\": "src/"
+            "Antoninval\\PackageComposer\\": "src/"
         }
     },
     "authors": [
