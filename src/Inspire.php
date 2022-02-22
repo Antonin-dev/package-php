@@ -1,6 +1,6 @@
 <?php
 
-namespace Mathildegrimal\PackageComposer;
+namespace antoninval\PackageComposer;
 
 class Inspire
 {
