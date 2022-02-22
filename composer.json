@@ -1,5 +1,5 @@
 {
-    "name": "mathildegrimal/package-composer",
+    "name": "antoninval/package-composer",
     "description": "A great package made with composer",
     "type": "library",
     "license": "MIT",
